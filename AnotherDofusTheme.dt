@@ -2,9 +2,9 @@
 <name>AnotherDofusTheme</name>
 <skinType>1</skinType>
 <description>Theme inspired from Not_Lilitheme</description>
-<previewUri>https://raw.githubusercontent.com/lMagickl/AnotherDofusTheme/main/bitmap/ADTpreview.jpg</previewUri>
+<previewUri>./bitmap/AnotherDofusTheme.zip</previewUri>
 <author>lMagickl</author>
-<version>1.2.0</version>
+<version>1.0.0</version>
 <dofusVersion>2.68</dofusVersion> 
 <creationDate>15/09/2023</creationDate> 
 <modificationDate>15/09/2023</modificationDate> 
