@@ -2,3 +2,4 @@
 
 Another theme for Dofus 2
 
+`zip -r releases/AnotherDofusTheme1-1-0.zip ./ -x ".git/*" "releases/*" "readme.md" ".gitignore"`
